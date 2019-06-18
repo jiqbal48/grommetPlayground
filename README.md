@@ -1,2 +1,0 @@
-# grommetPlayground
-Created with CodeSandbox
